@@ -1,5 +1,5 @@
 arr = [
-    ['xoooxxooooxxoxxo']
+    ['xoooxxooo'], ['xoooxxooo'], ['xoooxxooo'], ['xoooxxooo'], ['xoxoxxooo'],
 ]
 
 
